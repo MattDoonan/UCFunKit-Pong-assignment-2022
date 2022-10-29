@@ -1,6 +1,6 @@
 /**
  * @file movement.h
- * @author Matthew Doonan, Alex Holton
+ * @author Matthew Doonan
  * @brief This module header provides the movement functionality to the game.c class
  * @version 0.1
  * @date 2022-10-13
