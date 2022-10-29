@@ -1,0 +1,30 @@
+Pong
+
+Authors: Matthew Doonan, Alex Holton
+
+Setup:
+First "make program" with both the funkits plugged in. 
+Ensure that the funkits are turned on.
+
+The loading phase:
+When both the funkits have the program loaded the message PONG should move accross the screen.
+When this occurs turn the funkits sideways facing the IR sensor towards eachother. 
+Once you and your opponent are facing eachother press the "Button" on the funkit to go to the next phase.
+
+The Setup phase:
+Once the "Button" is pressed the screen message will change to "Click to spawn ball". 
+When this occurs one of the players who wants to start with the ball presses down on the "Nav Switch"
+Then the game will start
+
+The Game phase:
+To move the Racket the player moves left or right on the "Nav Switch" (In the dirrection of the player)
+The racket cannot go off the sides of the screen.
+The Ball will move towards the dirrection of the player unless hit by a player
+To hit the ball place your Nav switch behind where the next ball possition will be. 
+Overtime the ball will speed up.
+To win make it so the ball hits the end tiles of the opponent (The pixels where the opponents racket is)
+
+The End phase:
+Once one player loses the game will end and it will go to the end phase.
+This is where A message will pop-up saying "YOU WIN" or "YOU LOSE" depending on the outcome. 
+Press the "Nav Switch" down to end. 
